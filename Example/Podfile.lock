@@ -1,0 +1,16 @@
+PODS:
+  - HHModel (0.1.0)
+
+DEPENDENCIES:
+  - HHModel (from `../`)
+
+EXTERNAL SOURCES:
+  HHModel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HHModel: b5570abc25fb06907accafcbce2d2eb9f51609b9
+
+PODFILE CHECKSUM: 1874f10111b4cd44ddc6484f96be72a8069f6869
+
+COCOAPODS: 1.0.0.beta.4

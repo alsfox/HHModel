@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'HHModel_Example' do
+  pod 'HHModel', :path => '../'
+
+end
